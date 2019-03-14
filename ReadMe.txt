@@ -1,0 +1,4 @@
+SlidingBlockGame2.0是SlidingBlockGame的拓展。2.0文件夹下的TheProblem文件夹是题目要求。
+运行以后，4是最优解。其余对应实验的三个要求。
+
+详细请联系QQ1497058369
